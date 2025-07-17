@@ -71,15 +71,6 @@ Efficient frontiers were plotted for both Mean-Variance and Mean-CVaR models, sh
 
 ---
 
-## 📁 Project Structure
-
-├── data/ # Raw & processed market data
-├── notebooks/ # Jupyter notebooks for simulation & optimization
-├── plots/ # Efficient frontiers, pie charts, bar charts
-├── requirements.txt # List of libraries to install
-└── README.md # This file
-
-
 🚀 Future Extensions
 Integrate Black-Litterman model for subjective views and market equilibrium.
 
